@@ -1,0 +1,10 @@
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ("test1", "prueba1","test1@prueba1.com","2018-01-01");
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ("test2", "prueba2","test2@prueba2.com","2018-01-02");
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ("test3", "prueba3","test3@prueba3.com","2018-01-03");
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ("test4", "prueba4","test4@prueba4.com","2018-01-04");
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ("test5", "prueba5","test5@prueba5.com","2018-01-05");
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ("test6", "prueba6","test6@prueba6.com","2018-01-06");
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ("test7", "prueba7","test7@prueba7.com","2018-01-07");
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ("test8", "prueba8","test8@prueba8.com","2018-01-08");
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ("test9", "prueba9","test9@prueba9.com","2018-01-09");
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ("test10", "prueba10","test10@prueba10.com","2018-01-10");
